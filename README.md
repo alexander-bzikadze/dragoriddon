@@ -12,4 +12,4 @@ In order to receive best experience, we recommend the following software:
 ## Session Preparation
 
 Note that characters come with portraits and some episodes come with maps.
-Also, the final episode expects a QR code with a url to be available to the players.
+Also, the final episode expects a QR code with a [url](https://alexander-bzikadze.github.io/dragoriddon/) to be available to the players.
