@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dragoriddon Final Spell</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #333;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            overflow: hidden;
+            margin: 0;
+            padding: 0;
+        }
+
+        .fog-container {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            z-index: 1;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .text-content {
+            font-size: 5em;
+            font-weight: bold;
+            color: #FFF;
+            z-index: 2;
+            position: relative;
+            opacity: 0;
+            animation: textFade 6s 4s forwards;
+        }
+
+        .fog-layer {
+            position: absolute;
+            top: 0;
+            left: 50%;
+            width: 200%;
+            height: 100%;
+            background: repeating-radial-gradient(
+                circle at center,
+                #aaa 0%,
+                #eee 5%,
+                #aaa 10%
+            );
+            animation: fogAnimation 6s forwards;
+            transform: translateX(-50%);
+        }
+
+        @keyframes fogAnimation {
+            0% {
+                opacity: 1;
+            }
+            50% {
+                opacity: 0.7;
+            }
+            100% {
+                opacity: 0;
+            }
+        }
+
+        @keyframes textFade {
+            0% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+
+        /* Rain animation */
+        .rain {
+            position: absolute;
+            top: 0;
+            left: 0;
+            pointer-events: none;
+            z-index: 3;
+            display: none; /* It will be shown after fog */
+            width: 100%;
+            height: 100%;
+        }
+
+        .rain div {
+            position: absolute;
+            bottom: 100%;
+            width: 1px;
+            height: 90vh;
+            background: rgba(173, 216, 230, 0.6); /* light blue color */
+            animation: rainFall 0.5s linear infinite;
+        }
+
+        @keyframes rainFall {
+            to {
+                transform: translateY(100vh);
+            }
+        }
+
+    </style>
+</head>
+
+<body>
+    <div class="fog-container">
+        <div class="text-content">
+            Drath'vanor sil, etharos
+        </div>
+        <div class="fog-layer"></div>
+        <div class="rain">
+            <!-- Raindrops will be generated here -->
+        </div>
+    </div>
+    <script>
+        // Configurable constant for raindrops
+        const NUM_OF_DROPS = 10;
+
+        // Generate random raindrops
+        const rainContainer = document.querySelector('.rain');
+        for (let i = 0; i < NUM_OF_DROPS; i++) {
+            const drop = document.createElement('div');
+            // Randomly position the raindrop between 0% and 100%
+            drop.style.left = Math.random() * 100 + '%';
+            drop.style.animationDelay = Math.random() + 's';
+            rainContainer.appendChild(drop);
+        }
+
+        // Show rain after fog animation completes
+        document.querySelector('.fog-layer').addEventListener('animationend', function() {
+            rainContainer.style.display = 'block';
+        });
+    </script>
+</body>
+
+</html>
