@@ -1,2 +1,4 @@
 music/*
 !music/.gitkeep
+
+# TODO: ignore local info from .obsidian, but keep it for the plugins list

@@ -1,9 +1,44 @@
 {
-  "players": [],
+  "players": [
+    {
+      "note": "Ivan Farbinder",
+      "path": "obsidian/Campaign/September 23/Players/Ivan Farbinder.md",
+      "name": "Ivan Farbinder",
+      "level": 6,
+      "hp": 6,
+      "ac": "11",
+      "modifier": 1,
+      "player": true
+    },
+    {
+      "note": "Izzie Crow",
+      "path": "obsidian/Campaign/September 23/Players/Izzie Crow.md",
+      "name": "Izzie Crow",
+      "level": 6,
+      "hp": 39,
+      "ac": "15",
+      "modifier": 5,
+      "player": true
+    },
+    {
+      "note": "Kate Matsumoto",
+      "path": "obsidian/Campaign/September 23/Players/Kate Matsumoto.md",
+      "name": "Kate Matsumoto",
+      "level": 6,
+      "hp": 32,
+      "ac": "10",
+      "modifier": 0,
+      "player": true
+    }
+  ],
   "parties": [
     {
       "name": "DnD Trip September 2023",
-      "players": []
+      "players": [
+        "Ivan Farbinder",
+        "Izzie Crow",
+        "Kate Matsumoto"
+      ]
     }
   ],
   "defaultParty": null,
@@ -135,7 +170,7 @@
   "rollHP": true,
   "descending": true,
   "builder": {
-    "showParty": false,
+    "showParty": true,
     "showXP": false,
     "sidebarIcon": true,
     "headers": [
@@ -213,7 +248,8 @@
             "fey",
             "giant",
             "celestial",
-            "swarm of Tiny beasts"
+            "swarm of Tiny beasts",
+            "Undead"
           ],
           "id": "ID_DEFAULT_TYPE_FILTER",
           "derive": true
@@ -240,7 +276,8 @@
             "neutral good",
             "chaotic neutral",
             "neutral good (50%) or neutral evil (50%)",
-            "any evil alignment"
+            "any evil alignment",
+            "Chaotic Evil"
           ],
           "id": "ID_DEFAULT_ALIGNMENT_FILTER",
           "derive": true
