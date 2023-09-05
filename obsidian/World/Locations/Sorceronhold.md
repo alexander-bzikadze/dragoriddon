@@ -1,0 +1,1 @@
+The city has grown around [[The Temple of First Creation]]. Before it was one of the largest cities in the world, but then [[Pyrrhexis]] moved the center to a newly build city, as old ones were not suited to accommodate dragons properly. The dragon towers have still been constructed but feel alien to the rest of the settlement.
