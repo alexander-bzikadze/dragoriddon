@@ -1,0 +1,1 @@
+A tiefling assassin serving a dark master ([[Zuldrakar]]). She is tasked with infiltrating the prisoner caravan in order to reach the temple. She knows nothing of her master's plans nor which temple she seeks.

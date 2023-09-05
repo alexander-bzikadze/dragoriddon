@@ -1,5 +1,13 @@
-_A boisterous dwarf fisherman and a contemplative halfling sculptor, weaving tales of the sea and stone._
-#character #mortal #sylvergrove
+---
+tags:
+  - character
+  - mortal
+  - sylvergrove
+banner: "![[Jorin & Loriel.png]]"
+banner_y: 0.2
+---
+>[!info] Jorin & Loriel
+A boisterous dwarf fisherman and a contemplative halfling sculptor, weaving tales of the sea and stone.
 
 **Name**: Jorin & Loriel
 **Race**: Dwarf (Jorin) & Halfling (Loriel)
@@ -11,16 +19,16 @@ Today Jorin continues as the village's fisherman whereas Loriel spends time carv
 # Character
 The pair share a deep bond, evident in their shared stories and adventures. Jorin is the humorous, energetic dwarf, while Loriel, being a halfling, brings a sense of calmness and intricacy to their dynamic. Despite their differences in race and size, their love for each other transcends these boundaries.
 # Appearance
-## Physical Depiction
-A sturdy dwarf with a ruddy beard stands beside a slender halfling, delicate fingers hinting at hours spent in fine craftsmanship.
-## Voice
-Jorin: Gruff and hearty, with a resonance that echoes tales of the deep sea, occasionally punctuated by boisterous laughter.
+A sturdy dwarf-fisherman with a ruddy beard stands beside a halfling, delicate fingers hinting at hours spent in fine craftsmanship.
 
-Loriel: Soft-spoken with a melodic undertone, his words flow like a gentle stream, carrying depth and patience.
+![[Jorin & Loriel.png]]
+# Voice
+Jorin has gruff and hearty voice, with a resonance that echoes tales of the deep sea, occasionally punctuated by boisterous laughter.
 
-_Example Phrases_:
+Loriel has soft-spoken with a melodic undertone, his words flow like a gentle stream, carrying depth and patience.
 
-1. "The stone whispers its tales; I merely give them shape."
-2. "Jorin's stories? They're the song to my dance of carving."
-3. "Ever tried using yer unders as a net? Gives the fish a good laugh, it does!"
-4. "Loriel's carvings? They're the heart of my tales, turned to stone."
+>[!quote] Example Phrases
+>1. "The stone whispers its tales; I merely give them shape."
+>2. "Jorin's stories? They're the song to my dance of carving."
+>3. "Ever tried using yer unders as a net? Gives the fish a good laugh, it does!"
+>4. "Loriel's carvings? They're the heart of my tales, turned to stone."

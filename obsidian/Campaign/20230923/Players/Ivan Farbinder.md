@@ -1,0 +1,1 @@
+A human mercenary that gets tricked by local scammers into attacking [[Dralenthis]] in order to loot their group. Very kind in soul, he seeks to help people around him, but lacks a wider view of life due to growing up in a village.

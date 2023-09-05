@@ -1,9 +1,12 @@
 ---
 banner: "![[Zuldrakar.png]]"
 banner_y: 0.412
+tags:
+  - character
+  - dragon
 ---
-*A formidable dragonlich with ambitions to reshape the world in an undead image.*
-#character #dragon 
+>[!info]
+>A formidable dragonlich with ambitions to reshape the world in an undead image.
 
 **Name:** Zuldrakar  
 **Race:** Dragonlich  
@@ -14,17 +17,18 @@ Zuldrakar, once a fearsome dragon of immeasurable power, sought the secrets of i
 # Character
 Zuldrakar's lust for power and his understanding of the fragility of life drove him to embrace undeath. He values knowledge above all, often to the detriment of those around him. His formidable intellect, coupled with a detachment from the emotions of the living, is his strength. Yet, his arrogance and over-reliance on his lichdom can be his blind spots. He views mortals as mere pawns in his intricate game of cosmic chess, often underestimating the unpredictability of the living spirit.
 # Appearance
-**Physical Description:** A colossal skeletal dragon, patches of desiccated skin clutch to his formidable frame, while cold blue fires blaze within hollowed eye sockets, and ghostly mists float from his skeletal wings, reminiscent of the ethereal void.
-
-**Voice:** Zuldrakar's voice carries the chilling echoes of the grave, intermingled with the confident tones of one who has seen countless epochs pass.
+A colossal skeletal dragon, patches of desiccated skin clutch to his formidable frame, while cold blue fires blaze within hollowed eye sockets, and ghostly mists float from his skeletal wings, reminiscent of the ethereal void.
 ![Zuldrakar Illustration](Zuldrakar.png)
-## Example Phrases
-1. "Your petty spells are but a fleeting nuisance to my eternal might!"
-2. "You dare stand before Zuldrakar, the eternal embodiment of death and decay?"
-3. "The world has forgotten what true fear is. Allow me to remind it."
-4. "Your souls shall be woven into the very tapestry of my dominion!"
-5. "I've witnessed the fall of empires and the death of gods. You are but a brief shadow in my unending darkness."
-# Stats
+# Voice
+Zuldrakar's voice carries the chilling echoes of the grave, intermingled with the confident tones of one who has seen countless epochs pass.
+>[!quote] Example Phrases
+>1. "Your petty spells are but a fleeting nuisance to my eternal might!"
+>2. "You dare stand before Zuldrakar, the eternal embodiment of death and decay?"
+>3. "The world has forgotten what true fear is. Allow me to remind it."
+>4. "Your souls shall be woven into the very tapestry of my dominion!"
+>5. "I've witnessed the fall of empires and the death of gods. You are but a brief shadow in my unending darkness."
+# Statblock
+Zuldrakar is an ancient black dragonlich that speaks all languages.
 ```statblock
 name: Zuldrakar
 creature: Ancient Black Dragonlich

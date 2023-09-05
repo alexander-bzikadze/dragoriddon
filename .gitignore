@@ -1,4 +1,4 @@
 music/*
-!music/.gitkeep
+!music/Index.md
 
 # TODO: ignore local info from .obsidian, but keep it for the plugins list

@@ -1,0 +1,1 @@
+A human office clerk from a distant future. By accident she wakes up in this world and finds divine magic bursting out of her. She fights shock and seeks ways to return to her world.

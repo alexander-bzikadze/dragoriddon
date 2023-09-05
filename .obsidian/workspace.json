@@ -4,39 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "47c160d1c755f5e1",
+        "id": "f4b002988456e191",
         "type": "tabs",
         "children": [
           {
-            "id": "153aa11ca67ed2fc",
-            "type": "leaf",
-            "state": {
-              "type": "intiative-tracker-encounter-builder",
-              "state": []
-            }
-          },
-          {
-            "id": "16c4bc31331dc9d1",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "4ded1c8a0825eebc",
+            "id": "7f24e0dc999d02d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/Campaign/September 23/Index.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 200
   },
   "right": {
     "id": "b4c10b4bb8307df8",
@@ -95,7 +78,7 @@
       {
         "id": "bed6f10bb6aa992a",
         "type": "tabs",
-        "dimension": 51.515151515151516,
+        "dimension": 51.51515151515152,
         "children": [
           {
             "id": "d72844c1159f142b",
@@ -103,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian/Campaign/September 23/Index.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian/Campaign/September 23/Index.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian/Campaign/September 23/Index.md"
+                "file": "README.md"
               }
             }
           },
@@ -177,7 +160,7 @@
       {
         "id": "79a8476938f0eb1f",
         "type": "tabs",
-        "dimension": 24.242424242424242,
+        "dimension": 24.24242424242424,
         "children": [
           {
             "id": "1dffa688a1343345",
@@ -192,7 +175,7 @@
       {
         "id": "c9ac841142abd777",
         "type": "tabs",
-        "dimension": 24.242424242424242,
+        "dimension": 24.24242424242424,
         "children": [
           {
             "id": "55c6ee13be6042f1",
@@ -206,7 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 370.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,53 +205,53 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "4ded1c8a0825eebc",
+  "active": "7f24e0dc999d02d7",
   "lastOpenFiles": [
-    "obsidian/Campaign/September 23/Equipment in the Caravan.md",
-    "obsidian/Campaign/September 23/Index.md",
-    "obsidian/Campaign/September 23/Announcement.md",
-    "obsidian/Campaign/September 23/Players/Kate Matsumoto.md",
-    "obsidian/Campaign/September 23/Players/Izzie Crow.md",
-    "obsidian/Campaign/September 23/Players/Ivan Farbinder.md",
-    "obsidian/World/Story/1. Escape the Caravan.md",
-    "obsidian/World/Story/0. Prologue.md",
-    "obsidian/World/Story/1. Escape the Caravan.jpg",
+    "not",
+    "obsidian/World/Index.md",
+    "music/Index.md",
+    "obsidian/Story/4. Epilogue.md",
+    "obsidian/Story/3. The City.md",
+    "obsidian/Story/2. The Village.md",
+    "obsidian/Story/1. Escape the Caravan.md",
+    "music/Index^awake.md",
+    "music^awake.md",
+    "obsidian/Campaign/20230923/Index.md",
+    "obsidian/Story/0. Prologue.md",
+    "obsidian/World/Locations/The Temple Core.md",
+    "obsidian/World/Locations/The Temple of First Creation.md",
+    "obsidian/World/Locations/The Temple of First Creation.png",
     "obsidian/Inspiration.md",
-    "workflows/main.yaml",
-    "workflows",
-    "README.md",
-    "World/History/The Blast.md",
-    "World/Story/0. Prologue.md",
-    "World/Index.md",
-    "Campaign/September 23/Announcement.md",
-    "World/History/The Last War.md",
-    "World/Story/4. Epilogue.md",
-    "World/Story/3. The City.md",
-    "World/Story/2. The Village.md",
-    "World/Story/1. Escape the Caravan.md",
-    "World/Story/2. The Village.jpg",
-    "World/Story/Dragoriddon_ The Village.jpg",
-    "World/Story/1. Escape the Caravan.jpg",
-    "World/Story/Dragorridon_ Escape the Caravan.jpg",
-    "World/Characters & Factions/Zuldrakar.md",
-    "World/Characters & Factions/The Eldritch Conclave.md",
-    "World/Characters & Factions/The Dawn Siblings.md",
-    "World/Characters & Factions/Pyrrhexis.md",
-    "World/Characters & Factions/Myra.md",
-    "World/Characters & Factions/Dralenthis.md",
-    "World/Characters & Factions/Laelia.md",
-    "World/Characters & Factions/The Eldritch Conclave.png",
-    "World/Characters & Factions/The Dawn Siblings.png",
-    "World/Characters & Factions/Zuldrakar.png",
-    "World/Characters & Factions/Dralenthis.png",
-    "World/Characters & Factions/dralenthis.png.crdownload",
-    "World/Characters & Factions/the-dawn-siblings.png.crdownload",
-    "Campaign/September 23/Players",
-    "Campaign/September 23",
-    "Campaign",
-    "World/Story/Creatures",
-    "World/Characters & Factions/the-eldritch-conclave.png.crdownload",
-    "World/Characters & Factions/zuldrakar.png.crdownload",
-    "World/Characters & Factions/Pyrrhexis.png"
+    "obsidian/World/Locations/The Celestial Chalice.md",
+    "obsidian/World/Locations/Sylvergrove.md",
+    "obsidian/World/Locations/Sylvergrove.png",
+    "obsidian/World/Locations/Sylvergrove.png.crdownload",
+    "obsidian/World/Locations/Sorceronhold.md",
+    "obsidian/World/History/The Last War.md",
+    "obsidian/World/History/The Blast.md",
+    "obsidian/World/Characters & Factions/Zuldrakar.md",
+    "obsidian/World/Characters & Factions/Dralenthis.md",
+    "obsidian/World/Characters & Factions/The Eldritch Conclave.md",
+    "obsidian/World/Characters & Factions/The Dawn Siblings.md",
+    "obsidian/World/Characters & Factions/Pyrrhexis.md",
+    "obsidian/World/Characters & Factions/Myra.md",
+    "obsidian/World/Characters & Factions/Jorin & Loriel.md",
+    "obsidian/World/Locations/The Temple Core.png",
+    "obsidian/World/Locations/The Temple Core.png.crdownload",
+    "obsidian/World/Locations/The Celestial Chalice.png",
+    "obsidian/World/The Temple of First Creation.png.crdownload",
+    "obsidian/World/History/The Blast.png",
+    "obsidian/World/History/The Blast.png.crdownload",
+    "obsidian/World/History/The Last War.png",
+    "obsidian/World/History/The Last War.png.crdownload",
+    "obsidian/World/Locations/The Celestial Chalice.png.crdownload",
+    "obsidian/World/Characters & Factions/Pyrrhexis.png",
+    "obsidian/World/Characters & Factions/Myra.png",
+    "obsidian/World/Characters & Factions/Myra.png.crdownload",
+    "obsidian/World/Characters & Factions/Laelia.png",
+    "obsidian/World/Characters & Factions/Laelia.png.crdownload",
+    "obsidian/World/Characters & Factions/Dralenthis.png",
+    "obsidian/World/Characters & Factions/Jorin and Loriel.png.crdownload",
+    "workflows/main.yaml"
   ]
 }
